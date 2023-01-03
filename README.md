@@ -83,7 +83,7 @@ for(int i = 0; i < qt->number_of_zones; ++i)
 
 Now through exaustion we can inquire if an adjacency can be merged:
 
-``` c\+\+c
+``` c++
 bool flag = true;
 while(flag)
 {
